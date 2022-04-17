@@ -10,7 +10,7 @@ ensure esx_inventoryhud
 https://cdn.discordapp.com/attachments/939535551768453160/964189305293647912/SPOILER_unknown.png
 
 # ABOUT
-ESX_INVENTORYHUD WITH JOB, MONEY BANK AND BLACK MONEY
+ESX_INVENTORYHUD WITH JOB, BANK MONEY AND BLACK MONEY
 
 # Credits
 https://discord.gg/Nb23tC3wmA
