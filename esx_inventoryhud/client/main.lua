@@ -93,6 +93,9 @@ Citizen.CreateThread(function()
         while ESX.GetPlayerData().job.grade_name == nil do 
             Citizen.Wait(10)
         end
+        while ESX.GetPlayerData() == nil do 
+            Citizen.Wait(10)
+        end
 
     PlayerData = ESX.GetPlayerData()
 
