@@ -78,7 +78,7 @@ local Keys = {
 
 isInInventory = false
 ESX = nil
-job = nil
+job = job
 local PlayerData = {}
 
 Citizen.CreateThread(function()
